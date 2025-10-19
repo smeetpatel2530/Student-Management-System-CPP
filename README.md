@@ -90,3 +90,29 @@ The project is written in **standard C++** and can be compiled using `g++`.
 ### 1️⃣ Clone the Repository:
 ```bash
 git clone https://github.com/smeetpatel2530/Student-Management-System-CPP.git
+```
+### 2️⃣ Navigate to the Project Directory:
+```bash
+cd Student-Management-System-CPP/Student_Management_Program
+```
+### 3️⃣ Compile the Source Files:
+```bash
+g++ Student_Management_Program.cpp Student.cpp Class.cpp function.cpp -o student_management
+```
+### 4️⃣ Run the Application:
+Windows:
+```bash
+.\student_management.exe
+```
+macOS/Linux:
+```bash
+./student_management
+```
+### 📸 Screenshots
+![Main Menu](images/main_menu.png)
+![Add Student](images/add_student.png)
+![View Records](images/view_students.png)
+
+### 📜 License
+
+This project is licensed under the MIT License – see the LICENSE.txt file for details.
