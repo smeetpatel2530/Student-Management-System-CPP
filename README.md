@@ -109,9 +109,9 @@ macOS/Linux:
 ./student_management
 ```
 ### 📸 Screenshots
-![Main Menu](images/main_menu.png)
-![Add Student](images/add_student.png)
-![View Records](images/view_students.png)
+![Main Menu](images/main_func.jpg)
+![Add Student](images/add_func.jpg)
+![View Records](images/print_func.jpg)
 
 ### 📜 License
 
